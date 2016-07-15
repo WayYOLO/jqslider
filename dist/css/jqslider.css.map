@@ -1,0 +1,1 @@
+{"version":3,"sources":["jqslider/_jqslider-layout.scss","jqslider.css"],"names":[],"mappings":"AAAA;EACI,iBAAgB;CCCnB","file":"jqslider.css","sourcesContent":[".test{\r\n    text-indent: 123;\r\n}\r\n",".test {\r\n  text-indent: 123;\r\n}\r\n\r\n\r\n"],"sourceRoot":"/source/"}
